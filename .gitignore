@@ -1,0 +1,4 @@
+__pycache__
+.github
+embedding_model
+retrieval_model

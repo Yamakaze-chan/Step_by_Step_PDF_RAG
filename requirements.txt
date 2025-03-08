@@ -1,0 +1,15 @@
+transformers[torch]
+sentence-transformers
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+huggingface-hub
+tqdm
+accelerate
+pypdf
+chromadb
+unidecode
+gradio
+python-dotenv
+gpt4all
